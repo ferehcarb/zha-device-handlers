@@ -5,6 +5,7 @@ on:
     branches:
       - dev
       - master
+      - wip-tests-ts1201
   pull_request: ~
 
 jobs:
